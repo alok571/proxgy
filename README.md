@@ -4,7 +4,15 @@
 
 This repository contains helpful information about GitHub Copilot access and how to verify your subscription status in VS Code.
 
-### Quick Links
+### 🚀 Quick Answer
+**Want to know RIGHT NOW if you have unlimited Copilot access?**
+
+👉 See [CHECK_YOUR_ACCESS.md](CHECK_YOUR_ACCESS.md) for the fastest answer!
+
+Or visit: https://github.com/settings/copilot
+
+### 📚 Documentation
+- [Quick Access Check](CHECK_YOUR_ACCESS.md) - Get your answer in 30 seconds
 - [Complete Copilot Access Guide](COPILOT_ACCESS_GUIDE.md) - Detailed guide on checking your Copilot subscription
 
 ### Quick Check: Do You Have Unlimited Copilot Access?
