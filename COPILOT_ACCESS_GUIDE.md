@@ -5,10 +5,10 @@ This guide will help you verify your GitHub Copilot subscription status and dete
 
 ## What is Unlimited Copilot Access?
 
-Unlimited Copilot access typically means you have an active GitHub Copilot subscription that allows you to:
+Unlimited Copilot access means you have an active GitHub Copilot subscription (Individual, Business, or Enterprise) or eligible free access that allows you to:
 - Get unlimited code suggestions
 - Use Copilot chat without limitations
-- Access all Copilot features without restrictions
+- Access all Copilot features included in your subscription tier without usage restrictions
 
 ## How to Check Your Copilot Status in VS Code
 
@@ -29,26 +29,28 @@ Unlimited Copilot access typically means you have an active GitHub Copilot subsc
 ### Method 3: Check via VS Code Command Palette
 1. Open VS Code
 2. Press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (Mac)
-3. Type "Copilot: Sign In"
-4. If you're signed in, try "Copilot: About" or "Copilot: Check Status"
-5. This will show your account information and subscription status
+3. Type "GitHub Copilot: Sign In" to check your sign-in status
+4. Alternatively, check the Copilot icon in the status bar (bottom-right)
+5. Click the icon to see your account information and active status
 
 ## Types of Copilot Access
 
+**Note**: For current pricing and subscription details, please visit the [official GitHub Copilot pricing page](https://github.com/features/copilot#pricing).
+
 ### Individual Subscription
-- $10/month or $100/year
+- Paid monthly or annual subscription
 - Unlimited code completions
 - Chat access
 - All standard features
 
 ### Copilot Business
-- $19/user/month
+- Per-user pricing for organizations
 - All individual features
 - Organization management
 - Policy controls
 
 ### Copilot Enterprise
-- $39/user/month
+- Enterprise-level subscription
 - All business features
 - Fine-tuned models
 - Advanced features
